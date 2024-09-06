@@ -16,4 +16,4 @@ Author: AndHol996 I would like to acknowledge my teacher, N. Sanka, and TA, V. R
 The code was influenced by the OSU AI Bootcamp lessons and by a GeeksforGeeks article titled *Print number with commas as 1000 separators in Python* by GeeksforGeeks. The Method 2, example 2 of string.format() influenced lines 21,22, 35, and 36 of customer_banking.py
 
 ## References
-*Print number with commas as 1000 separators in Python* by Geeksforgeeks on geeksforgeeks.org, accessed on 9/5/2024. (<[*Print number with commas as 1000 separators in Python*](https://www.geeksforgeeks.org/print-number-commas-1000-separators-python/)
+*Print number with commas as 1000 separators in Python* by Geeksforgeeks on geeksforgeeks.org, accessed on 9/5/2024. [*Print number with commas as 1000 separators in Python*](https://www.geeksforgeeks.org/print-number-commas-1000-separators-python/)
